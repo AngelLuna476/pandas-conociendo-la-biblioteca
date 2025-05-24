@@ -1,4 +1,4 @@
-<h1 align="center">Pandas: conociendo la biblioteca</h1>
+<h1 align="center">Pandas: Conociendo la biblioteca</h1>
 
 <p align="center"><strong><em>Programa de especialización de la formación ORACLE NEX EDUCATION en conjunto con ALURA LATAM</em></strong></p>
 
