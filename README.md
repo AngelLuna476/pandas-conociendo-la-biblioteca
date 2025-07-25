@@ -19,6 +19,11 @@ En esta parte de la capacitación, comienza el aprendizaje con la biblioteca Pan
 
 ---
 
-## Licencias:
+## Licencias y uso:
 
-- Esta libreta está basada en contenido educativo de Alura Latam en conjunto con Oracle Next Education y es utilizado con fines de aprendizaje personal.
+- _Esta libreta está basada en contenido educativo de Alura Latam y Oracle Next Education, y se utiliza exclusivamente con fines de aprendizaje personal y sin fines comerciales._
+> * _Contenido educativo: Los materiales aquí utilizados son propiedad de sus respectivos autores y están referenciados con fines pedagógicos._
+
+> * _Derechos de autor: Se respeta la propiedad intelectual de Alura Latam y Oracle Next Education. Si eres representante de estas instituciones y deseas que se modifique o retire contenido, por favor contáctame._
+
+> * _Uso del repositorio: Este repositorio puede servir como referencia para otros estudiantes en formación, pero no debe ser utilizado para actividades comerciales ni ser presentado como producto original en procesos académicos o profesionales._
